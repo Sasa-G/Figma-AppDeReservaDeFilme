@@ -1,7 +1,7 @@
 # Figma-AppDeReservaDeFilme
 Realizei um design simples de uma pagina de reserva de filmes!
-
 <video src="https://github.com/Sasa-G/Figma-AppDeReservaDeFilme/assets/142459272/004ed028-ec40-4f9c-9f63-f2f674f54bb4" alt="">
+
 
 
 
